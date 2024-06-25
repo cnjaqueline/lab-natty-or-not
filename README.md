@@ -4,48 +4,59 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me levou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 QualiCast: Sua Fonte de Qualidade 💪🤓
 
-### Objetivos
+## 📒O Projeto
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Criar um podcast focado em qualidade e teste de software para o publico alvo analistas e engenheiros de QA.
 
-### Template
+## 💻 Tecnologias utilizadas no projeto
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+- [ChatGPT](https://chat.openai.com/) 
+- [D-ID](https://studio.d-id.com/)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## ✨ Como foi feito ?
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Roteiro gerado via chatgpt
+- Vídeo e Audio gerado pelo D-ID
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧠 Prompts
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+ChatGPT：
 
-### Exemplos e Insigths
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em qualidade e teste de software e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de qualidade e teste de software feito por QAs, e que tenha algum trocadilho no nome. O podcast vai falar sobre dicas e novidades sobre qualidade e teste de software e o que está acontecendo no mercado {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo - O nome deve conter alguma palavra forte que remeta a qualidade {REGRAS NEGATIVAS} - Não quero que o título contenha palavras em Inglês                                                         |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em qualidade e teste de software cujo o nome é "QualiCast: Sua Fonte de Qualidade" e tem foco em qualidade e teste de software,  com o público alvo de analistas e engenheiros de QA. o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'full cycle', como se fossem escritos pelo Wesley Willians - no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre qualidade - no bloco [CURIOSIDADE 2] sobre uma ferramenta para teste de software - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Jaque e esse foi o QualiQuest dessa semana' - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Jaque - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 3 minutos de duração|
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 📚 Resultados
 
-## Links Interessantes
+- [Link do vído no D-ID](https://studio.d-id.com/share?id=d3401f3b6f8331f7b8b89a2dff308747&utm_source=copy)
+- [Link do vído neste repositório](/exemplos/QualiCast.mp4)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 👨‍💻 Expert
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/78482349?v=4"
+    />
+    <p>&nbsp&nbsp&nbspJaqueline Constantino<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/cnjaqueline">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+jaquelineconstantino">LinkedIn</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Jaqueline Constantino](https://github.com/cnjaqueline)
